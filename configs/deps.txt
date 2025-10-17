@@ -1,0 +1,11 @@
+    langchain
+    langchain-openai
+    langchain-google-genai
+    langchain-community
+    langgraph
+    langchain-core
+    python-dotenv
+    faiss-cpu
+    tiktoken
+    tavily-python
+    beautifulsoup4
